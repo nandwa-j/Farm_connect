@@ -22,4 +22,5 @@ urlpatterns = [
         name="schema-swagger-ui",
     ),
     path("api/", include("farm_experts.urls")),
+    path("api/", include("contact_us.urls")),
 ]
