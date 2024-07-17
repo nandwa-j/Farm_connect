@@ -1,5 +1,5 @@
 const config = {
-  apiBaseUrl: "https://farm-connect-56ip.onrender.com/api",
+  apiBaseUrl: "http://localhost:8000/api",
 };
 
 export default config;
